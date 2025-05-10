@@ -1,4 +1,4 @@
-``Telegram - @alenawhitemoustache``
+``Telegram - @alenawhitemoustache, почта для связи alena.belousova.2811@mail.ru``
 ``Команды для запуска``
 1. ``npm install``
 2. ``npm run dev``
